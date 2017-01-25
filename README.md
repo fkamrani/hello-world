@@ -1,2 +1,2 @@
 # hello-world
-A tet project on GitHub.
+A test project on GitHub.
